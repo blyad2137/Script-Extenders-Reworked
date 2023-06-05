@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://userstyles.world/style/3903/facebook-dark-mode-expanded"><img src="https://i.imgur.com/GPK5HRr.png" style="width: 20vw !important;"></img></a>
+  <a href="https://userstyles.world/style/10196/script-extenders-reworked"><img src="https://i.imgur.com/GPK5HRr.png" style="width: 20vw !important;"></img></a>
 </p>
 <hr></hr>
 <h2>📷 Preview</h2>
